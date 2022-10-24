@@ -1,0 +1,16 @@
+.footerWrapp{
+    display: flex;
+    justify-content: space-between;
+}
+.footerFirstWrapp{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+    border-bottom: 1px solid #D2D5D8;
+}
+.footerSecondWrapp{
+    display: flex;
+    align-items: center;
+    height: 56px;
+}

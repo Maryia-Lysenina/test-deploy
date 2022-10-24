@@ -1,0 +1,21 @@
+.headerWrapp{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.headerFirstWrapp{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    height: 44px;
+    background: #F6F6F7;
+}
+.headerSecondWrapp{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    background: #00A0AC;
+    height: 55px;
+}
